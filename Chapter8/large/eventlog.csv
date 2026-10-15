@@ -1,0 +1,540 @@
+0,examineeA[2139],urine test,start
+2,examineeA[2139],urine test,end
+2,examineeA[2139],blood test,start
+5,examineeC[2210],urine test,start
+6,examineeC[2210],urine test,end
+6,examineeC[2210],blood test,start
+7,examineeA[2139],blood test,end
+7,examineeA[2139],echo,start
+10,examineeC[2235],urine test,start
+10,examineeC[2210],blood test,end
+10,examineeC[2210],lung xray,start
+12,examineeC[2235],urine test,end
+12,examineeC[2235],blood test,start
+14,examineeA[2259],urine test,start
+16,examineeC[2210],lung xray,end
+16,examineeC[2210],vision  hearing,start
+17,examineeA[2259],urine test,end
+17,examineeA[2259],blood test,start
+17,examineeC[2235],blood test,end
+17,examineeC[2235],blood pressure,start
+20,examineeA[2288],urine test,start
+21,examineeC[2235],blood pressure,end
+21,examineeC[2235],lung xray,start
+21,examineeC[2210],vision  hearing,end
+21,examineeC[2210],blood pressure,start
+21,examineeA[2288],urine test,end
+21,examineeA[2259],blood test,end
+21,examineeA[2259],stomach endscope,start
+21,examineeA[2288],blood test,start
+24,examineeC[2210],blood pressure,end
+24,examineeC[2210],body,start
+24,examineeA[2324],urine test,start
+26,examineeC[2235],lung xray,end
+26,examineeA[2139],echo,end
+26,examineeA[2139],lung xray,start
+26,examineeC[2235],vision  hearing,start
+27,examineeA[2288],blood test,end
+27,examineeA[2288],echo,start
+27,examineeA[2324],urine test,end
+27,examineeA[2324],blood test,start
+29,examineeC[2210],body,end
+30,examineeC[2359],urine test,start
+30,examineeC[2210],counseling,start
+31,examineeC[2235],vision  hearing,end
+31,examineeC[2235],body,start
+31,examineeA[2139],lung xray,end
+31,examineeA[2139],vision  hearing,start
+31,examineeA[2324],blood test,end
+31,examineeA[2324],opt,start
+31,examineeC[2359],urine test,end
+31,examineeC[2359],blood test,start
+34,examineeA[2394],urine test,start
+36,examineeA[2139],vision  hearing,end
+36,examineeA[2139],stomach endscope,start
+36,examineeC[2210],counseling,end
+36,examineeC[2235],body,end
+37,examineeA[2394],urine test,end
+37,examineeA[2394],blood test,start
+37,examineeA[2324],opt,end
+37,examineeA[2324],lung xray,start
+37,examineeC[2359],blood test,end
+37,examineeC[2359],blood pressure,start
+37,examineeC[2235],counseling,start
+40,examineeC[2434],urine test,start
+40,examineeC[2359],blood pressure,end
+40,examineeC[2359],vision  hearing,start
+41,examineeA[2259],stomach endscope,end
+41,examineeA[2259],body,start
+41,examineeA[2394],blood test,end
+41,examineeA[2394],stomach endscope,start
+42,examineeC[2434],urine test,end
+42,examineeC[2434],blood test,start
+42,examineeA[2324],lung xray,end
+42,examineeA[2324],blood pressure,start
+43,examineeC[2235],counseling,end
+44,examineeA[2472],urine test,start
+45,examineeA[2324],blood pressure,end
+46,examineeC[2359],vision  hearing,end
+46,examineeC[2359],lung xray,start
+46,examineeA[2324],vision  hearing,start
+46,examineeA[2259],body,end
+46,examineeA[2259],blood pressure,start
+46,examineeA[2288],echo,end
+46,examineeA[2288],opt,start
+47,examineeC[2434],blood test,end
+47,examineeC[2434],body,start
+47,examineeA[2472],urine test,end
+47,examineeA[2472],blood test,start
+49,examineeA[2259],blood pressure,end
+49,examineeA[2259],echo,start
+50,examineeC[2517],urine test,start
+50,examineeA[2324],vision  hearing,end
+51,examineeA[2288],opt,end
+51,examineeA[2288],vision  hearing,start
+51,examineeC[2359],lung xray,end
+52,examineeA[2472],blood test,end
+52,examineeA[2472],blood pressure,start
+52,examineeC[2434],body,end
+52,examineeA[2324],body,start
+52,examineeC[2434],lung xray,start
+52,examineeC[2517],urine test,end
+52,examineeC[2517],blood test,start
+54,examineeA[2556],urine test,start
+56,examineeA[2288],vision  hearing,end
+56,examineeA[2472],blood pressure,end
+56,examineeA[2472],opt,start
+56,examineeA[2139],stomach endscope,end
+56,examineeA[2139],blood pressure,start
+56,examineeA[2288],stomach endscope,start
+57,examineeC[2434],lung xray,end
+57,examineeC[2434],vision  hearing,start
+57,examineeA[2556],urine test,end
+57,examineeA[2556],blood test,start
+57,examineeC[2517],blood test,end
+57,examineeC[2517],lung xray,start
+57,examineeA[2324],body,end
+57,examineeC[2359],body,start
+59,examineeA[2139],blood pressure,end
+60,examineeA[2394],stomach endscope,end
+60,examineeA[2394],blood pressure,start
+60,examineeC[2603],urine test,start
+60,examineeA[2324],stomach endscope,start
+61,examineeC[2603],urine test,end
+61,examineeC[2603],blood test,start
+61,examineeA[2472],opt,end
+61,examineeA[2139],opt,start
+62,examineeA[2556],blood test,end
+62,examineeC[2434],vision  hearing,end
+62,examineeA[2556],vision  hearing,start
+62,examineeC[2517],lung xray,end
+62,examineeA[2472],lung xray,start
+62,examineeC[2359],body,end
+62,examineeC[2517],body,start
+62,examineeC[2359],counseling,start
+62,examineeA[2394],blood pressure,end
+62,examineeC[2434],blood pressure,start
+65,examineeA[2654],urine test,start
+65,examineeC[2603],blood test,end
+65,examineeC[2434],blood pressure,end
+65,examineeC[2603],blood pressure,start
+66,examineeA[2139],opt,end
+66,examineeA[2394],opt,start
+66,examineeA[2472],lung xray,end
+66,examineeC[2359],counseling,end
+66,examineeA[2556],vision  hearing,end
+66,examineeA[2556],lung xray,start
+66,examineeA[2472],vision  hearing,start
+66,examineeC[2517],body,end
+66,examineeA[2139],body,start
+66,examineeC[2434],counseling,start
+67,examineeA[2654],urine test,end
+67,examineeA[2654],blood test,start
+69,examineeA[2259],echo,end
+69,examineeC[2603],blood pressure,end
+69,examineeC[2517],blood pressure,start
+69,examineeC[2707],urine test,start
+71,examineeA[2394],opt,end
+71,examineeA[2472],vision  hearing,end
+71,examineeA[2259],vision  hearing,start
+71,examineeA[2472],echo,start
+71,examineeA[2654],blood test,end
+71,examineeC[2707],urine test,end
+71,examineeA[2654],opt,start
+71,examineeC[2707],blood test,start
+71,examineeA[2556],lung xray,end
+71,examineeA[2394],lung xray,start
+71,examineeC[2434],counseling,end
+71,examineeA[2139],body,end
+71,examineeA[2556],body,start
+71,examineeA[2139],counseling,start
+72,examineeC[2517],blood pressure,end
+72,examineeA[2288],stomach endscope,end
+72,examineeA[2288],blood pressure,start
+75,examineeC[2759],urine test,start
+75,examineeA[2288],blood pressure,end
+76,examineeA[2259],vision  hearing,end
+76,examineeC[2517],vision  hearing,start
+76,examineeA[2556],body,end
+76,examineeA[2556],stomach endscope,start
+76,examineeC[2603],body,start
+76,examineeA[2654],opt,end
+76,examineeA[2654],blood pressure,start
+76,examineeA[2259],opt,start
+76,examineeC[2707],blood test,end
+76,examineeA[2139],counseling,end
+77,examineeC[2759],urine test,end
+77,examineeC[2759],blood test,start
+77,examineeA[2394],lung xray,end
+77,examineeA[2288],lung xray,start
+78,examineeA[2654],blood pressure,end
+78,examineeC[2707],blood pressure,start
+79,examineeA[2324],stomach endscope,end
+79,examineeA[2654],stomach endscope,start
+80,examineeA[2813],urine test,start
+80,examineeC[2603],body,end
+80,examineeA[2394],body,start
+81,examineeA[2259],opt,end
+81,examineeA[2288],lung xray,end
+81,examineeA[2259],lung xray,start
+81,examineeC[2517],vision  hearing,end
+81,examineeC[2603],vision  hearing,start
+81,examineeC[2517],counseling,start
+81,examineeC[2707],blood pressure,end
+82,examineeA[2813],urine test,end
+82,examineeA[2813],blood test,start
+82,examineeC[2759],blood test,end
+82,examineeC[2759],blood pressure,start
+85,examineeC[2855],urine test,start
+85,examineeA[2394],body,end
+85,examineeA[2259],lung xray,end
+85,examineeC[2707],lung xray,start
+85,examineeA[2288],body,start
+85,examineeC[2759],blood pressure,end
+85,examineeC[2517],counseling,end
+85,examineeA[2259],counseling,start
+86,examineeC[2603],vision  hearing,end
+86,examineeC[2759],vision  hearing,start
+86,examineeC[2855],urine test,end
+86,examineeC[2855],blood test,start
+86,examineeA[2813],blood test,end
+86,examineeA[2813],opt,start
+86,examineeA[2472],echo,end
+86,examineeA[2394],echo,start
+90,examineeC[2902],urine test,start
+90,examineeC[2707],lung xray,end
+90,examineeC[2759],vision  hearing,end
+90,examineeC[2707],vision  hearing,start
+90,examineeC[2603],lung xray,start
+90,examineeA[2288],body,end
+90,examineeC[2759],body,start
+90,examineeA[2259],counseling,end
+90,examineeA[2288],counseling,start
+92,examineeA[2813],opt,end
+92,examineeC[2902],urine test,end
+92,examineeC[2855],blood test,end
+92,examineeC[2855],blood pressure,start
+92,examineeC[2902],blood test,start
+94,examineeC[2855],blood pressure,end
+94,examineeA[2813],blood pressure,start
+94,examineeA[2288],counseling,end
+95,examineeA[2951],urine test,start
+95,examineeA[2556],stomach endscope,end
+95,examineeA[2556],opt,start
+95,examineeA[2472],stomach endscope,start
+95,examineeC[2707],vision  hearing,end
+95,examineeC[2855],vision  hearing,start
+95,examineeC[2759],body,end
+95,examineeC[2707],body,start
+95,examineeC[2603],lung xray,end
+95,examineeC[2759],lung xray,start
+95,examineeC[2603],counseling,start
+96,examineeC[2902],blood test,end
+96,examineeA[2951],urine test,end
+96,examineeA[2951],blood test,start
+98,examineeA[2813],blood pressure,end
+98,examineeC[2902],blood pressure,start
+98,examineeA[2654],stomach endscope,end
+98,examineeA[2813],stomach endscope,start
+100,examineeA[2556],opt,end
+100,examineeC[2707],body,end
+100,examineeA[2654],body,start
+100,examineeC[2855],vision  hearing,end
+100,examineeC[2759],lung xray,end
+100,examineeC[2855],lung xray,start
+100,examineeC[2603],counseling,end
+100,examineeC[2707],counseling,start
+100,examineeC[2902],blood pressure,end
+100,examineeA[2556],blood pressure,start
+100,examineeC[2902],vision  hearing,start
+101,examineeA[2951],blood test,end
+101,examineeA[2951],opt,start
+104,examineeA[2556],blood pressure,end
+104,examineeB[3033],urine test,start
+105,examineeC[2855],lung xray,end
+105,examineeC[2707],counseling,end
+105,examineeA[2394],echo,end
+105,examineeC[2902],vision  hearing,end
+105,examineeA[2394],vision  hearing,start
+105,examineeC[2902],lung xray,start
+105,examineeC[2759],counseling,start
+105,examineeA[2556],echo,start
+105,examineeA[2654],body,end
+105,examineeC[2855],body,start
+107,examineeA[2951],opt,end
+107,examineeA[2951],blood pressure,start
+107,examineeB[3033],urine test,end
+107,examineeB[3033],blood test,start
+110,examineeB[3075],urine test,start
+110,examineeA[2951],blood pressure,end
+110,examineeC[2855],body,end
+110,examineeA[2951],body,start
+110,examineeA[2394],vision  hearing,end
+110,examineeC[2759],counseling,end
+110,examineeA[2394],counseling,start
+110,examineeA[2654],vision  hearing,start
+110,examineeC[2902],lung xray,end
+111,examineeB[3033],blood test,end
+111,examineeB[3033],stomach xray,start
+112,examineeB[3075],urine test,end
+112,examineeB[3075],blood test,start
+115,examineeB[3112],urine test,start
+115,examineeA[2654],vision  hearing,end
+115,examineeA[2654],lung xray,start
+115,examineeA[2394],counseling,end
+115,examineeA[2951],body,end
+115,examineeC[2902],body,start
+115,examineeA[2951],vision  hearing,start
+115,examineeC[2855],counseling,start
+115,examineeA[2472],stomach endscope,end
+117,examineeA[2813],stomach endscope,end
+117,examineeB[3112],urine test,end
+117,examineeB[3112],blood test,start
+118,examineeB[3075],blood test,end
+118,examineeB[3075],blood pressure,start
+120,examineeC[2902],body,end
+120,examineeA[2813],body,start
+120,examineeA[2951],vision  hearing,end
+120,examineeB[3155],urine test,start
+120,examineeA[2951],stomach endscope,start
+120,examineeC[2855],counseling,end
+120,examineeC[2902],counseling,start
+120,examineeA[2654],lung xray,end
+121,examineeB[3075],blood pressure,end
+121,examineeB[3112],blood test,end
+121,examineeB[3112],vision  hearing,start
+121,examineeB[3075],lung xray,start
+122,examineeB[3155],urine test,end
+122,examineeB[3155],blood test,start
+124,examineeA[2556],echo,end
+124,examineeA[2654],echo,start
+124,examineeC[2902],counseling,end
+124,examineeA[2813],body,end
+124,examineeA[2556],counseling,start
+124,examineeA[2472],body,start
+124,examineeB[3201],urine test,start
+126,examineeB[3155],blood test,end
+126,examineeB[3155],opt,start
+126,examineeB[3201],urine test,end
+126,examineeB[3201],blood test,start
+126,examineeB[3075],lung xray,end
+126,examineeB[3112],vision  hearing,end
+126,examineeB[3075],vision  hearing,start
+126,examineeB[3112],blood pressure,start
+126,examineeA[2813],lung xray,start
+129,examineeB[3033],stomach xray,end
+129,examineeA[2556],counseling,end
+129,examineeB[3112],blood pressure,end
+129,examineeB[3112],stomach xray,start
+129,examineeB[3033],blood pressure,start
+129,examineeA[2472],body,end
+129,examineeA[2472],counseling,start
+130,examineeB[3247],urine test,start
+131,examineeB[3155],opt,end
+131,examineeB[3155],body,start
+131,examineeB[3201],blood test,end
+131,examineeB[3247],urine test,end
+131,examineeB[3247],blood test,start
+131,examineeA[2813],lung xray,end
+131,examineeB[3201],lung xray,start
+132,examineeB[3075],vision  hearing,end
+132,examineeB[3075],opt,start
+132,examineeA[2813],vision  hearing,start
+132,examineeB[3033],blood pressure,end
+134,examineeA[2472],counseling,end
+135,examineeB[3284],urine test,start
+136,examineeB[3155],body,end
+136,examineeB[3033],body,start
+136,examineeB[3155],blood pressure,start
+136,examineeB[3247],blood test,end
+137,examineeA[2813],vision  hearing,end
+137,examineeB[3247],vision  hearing,start
+137,examineeB[3284],urine test,end
+137,examineeB[3201],lung xray,end
+137,examineeB[3284],blood test,start
+137,examineeB[3075],opt,end
+137,examineeA[2951],stomach endscope,end
+137,examineeA[2951],lung xray,start
+137,examineeB[3201],opt,start
+138,examineeB[3155],blood pressure,end
+140,examineeB[3324],urine test,start
+140,examineeB[3033],body,end
+140,examineeB[3075],body,start
+141,examineeB[3324],urine test,end
+141,examineeB[3324],blood test,start
+142,examineeB[3247],vision  hearing,end
+142,examineeB[3033],vision  hearing,start
+142,examineeB[3247],blood pressure,start
+142,examineeB[3284],blood test,end
+142,examineeA[2951],lung xray,end
+142,examineeB[3155],lung xray,start
+142,examineeB[3201],opt,end
+142,examineeB[3284],opt,start
+144,examineeA[2654],echo,end
+144,examineeA[2654],counseling,start
+144,examineeB[3201],echo,start
+144,examineeB[3367],urine test,start
+144,examineeB[3247],blood pressure,end
+146,examineeB[3075],body,end
+146,examineeB[3247],body,start
+146,examineeB[3367],urine test,end
+146,examineeB[3367],blood test,start
+146,examineeB[3324],blood test,end
+146,examineeB[3324],blood pressure,start
+146,examineeB[3033],vision  hearing,end
+148,examineeB[3284],opt,end
+148,examineeB[3033],opt,start
+148,examineeB[3155],lung xray,end
+148,examineeB[3155],vision  hearing,start
+148,examineeB[3284],lung xray,start
+148,examineeB[3324],blood pressure,end
+148,examineeA[2654],counseling,end
+148,examineeB[3112],stomach xray,end
+148,examineeB[3075],stomach xray,start
+150,examineeB[3415],urine test,start
+151,examineeB[3367],blood test,end
+151,examineeB[3367],blood pressure,start
+151,examineeB[3247],body,end
+151,examineeB[3112],body,start
+152,examineeB[3284],lung xray,end
+152,examineeB[3415],urine test,end
+152,examineeB[3247],lung xray,start
+152,examineeB[3415],blood test,start
+153,examineeB[3033],opt,end
+153,examineeB[3155],vision  hearing,end
+153,examineeB[3284],vision  hearing,start
+153,examineeB[3324],opt,start
+154,examineeB[3367],blood pressure,end
+155,examineeB[3112],body,end
+155,examineeB[3367],body,start
+157,examineeB[3415],blood test,end
+157,examineeB[3415],blood pressure,start
+157,examineeB[3247],lung xray,end
+157,examineeB[3112],lung xray,start
+157,examineeB[3284],vision  hearing,end
+158,examineeB[3324],opt,end
+158,examineeB[3247],opt,start
+158,examineeB[3324],vision  hearing,start
+160,examineeB[3367],body,end
+160,examineeB[3284],body,start
+160,examineeB[3415],blood pressure,end
+162,examineeB[3112],lung xray,end
+162,examineeB[3415],lung xray,start
+162,examineeB[3247],opt,end
+162,examineeB[3324],vision  hearing,end
+162,examineeB[3367],vision  hearing,start
+162,examineeB[3112],opt,start
+164,examineeB[3201],echo,end
+164,examineeB[3201],blood pressure,start
+164,examineeB[3324],echo,start
+164,examineeB[3284],body,end
+164,examineeB[3075],stomach xray,end
+164,examineeB[3155],stomach xray,start
+167,examineeB[3201],blood pressure,end
+167,examineeB[3284],blood pressure,start
+167,examineeB[3201],body,start
+168,examineeB[3367],vision  hearing,end
+168,examineeB[3112],opt,end
+168,examineeB[3367],opt,start
+168,examineeB[3415],lung xray,end
+168,examineeB[3415],vision  hearing,start
+168,examineeB[3033],lung xray,start
+169,examineeB[3284],blood pressure,end
+172,examineeB[3201],body,end
+173,examineeB[3033],lung xray,end
+173,examineeB[3367],opt,end
+173,examineeB[3367],lung xray,start
+173,examineeB[3415],vision  hearing,end
+173,examineeB[3415],opt,start
+173,examineeB[3201],vision  hearing,start
+178,examineeB[3367],lung xray,end
+179,examineeB[3201],vision  hearing,end
+179,examineeB[3415],opt,end
+179,examineeB[3415],body,start
+182,examineeB[3155],stomach xray,end
+182,examineeB[3201],stomach xray,start
+183,examineeB[3324],echo,end
+183,examineeB[3247],echo,start
+183,examineeB[3324],lung xray,start
+183,examineeB[3415],body,end
+188,examineeB[3324],lung xray,end
+188,examineeB[3324],body,start
+193,examineeB[3324],body,end
+201,examineeB[3201],stomach xray,end
+201,examineeB[3247],echo,end
+201,examineeB[3201],counseling,start
+201,examineeB[3415],echo,start
+201,examineeB[3324],stomach xray,start
+205,examineeB[3201],counseling,end
+219,examineeB[3415],echo,end
+219,examineeA[2813],echo,start
+221,examineeB[3324],stomach xray,end
+221,examineeB[3324],counseling,start
+221,examineeB[3367],stomach xray,start
+226,examineeB[3324],counseling,end
+239,examineeB[3367],stomach xray,end
+239,examineeB[3247],stomach xray,start
+241,examineeA[2813],echo,end
+241,examineeB[3367],echo,start
+241,examineeA[2813],counseling,start
+246,examineeA[2813],counseling,end
+257,examineeB[3247],stomach xray,end
+257,examineeB[3415],stomach xray,start
+257,examineeB[3247],counseling,start
+260,examineeB[3367],echo,end
+260,examineeB[3033],echo,start
+261,examineeB[3247],counseling,end
+261,examineeB[3367],counseling,start
+267,examineeB[3367],counseling,end
+277,examineeB[3415],stomach xray,end
+277,examineeB[3284],stomach xray,start
+277,examineeB[3415],counseling,start
+280,examineeB[3033],echo,end
+280,examineeB[3112],echo,start
+282,examineeB[3415],counseling,end
+282,examineeB[3033],counseling,start
+286,examineeB[3033],counseling,end
+295,examineeB[3284],stomach xray,end
+300,examineeB[3112],echo,end
+300,examineeA[2951],echo,start
+300,examineeB[3112],counseling,start
+304,examineeB[3112],counseling,end
+319,examineeA[2951],echo,end
+319,examineeA[2951],counseling,start
+319,examineeB[3155],echo,start
+324,examineeA[2951],counseling,end
+338,examineeB[3155],echo,end
+338,examineeA[2324],echo,start
+338,examineeB[3155],counseling,start
+342,examineeB[3155],counseling,end
+358,examineeA[2324],echo,end
+358,examineeA[2324],counseling,start
+358,examineeB[3075],echo,start
+363,examineeA[2324],counseling,end
+376,examineeB[3075],echo,end
+376,examineeB[3284],echo,start
+376,examineeB[3075],counseling,start
+382,examineeB[3075],counseling,end
+398,examineeB[3284],echo,end
+398,examineeB[3284],counseling,start
+403,examineeB[3284],counseling,end
